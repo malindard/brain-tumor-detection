@@ -7,7 +7,7 @@ The detection of brain tumors plays a critical role in early diagnosis and treat
 
 ## Dataset
 The dataset used in this project consists of 253 images of brain MRI scans, comprising both tumor and non-tumor images. The dataset is appropriately divided into training and testing sets to ensure a balanced distribution of tumor and non-tumor images. The dataset is preprocessed and formatted to be compatible with the CNN models.
-![The Dataset from Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
+[Dataset from Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 
 ## Models
 Three CNN models are employed for brain tumor detection:
